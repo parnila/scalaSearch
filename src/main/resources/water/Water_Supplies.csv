@@ -1,0 +1,465 @@
+code,country,year,safelyManaged,accessOnPremises,availableWhenNeeded,freeFromContamination,piped,nonpiped
+AFG,Afghanistan,2000,-,14,-,-,6,23
+AFG,Afghanistan,2015,-,40,-,-,12,56
+ALB,Albania,2000,43,61,49,96,76,21
+ALB,Albania,2015,69,89,70,88,86,10
+DZA,Algeria,2000,-,69,-,-,81,15
+DZA,Algeria,2015,-,81,-,-,77,22
+ASM,American Samoa,2000,-,78,-,-,97,1
+ASM,American Samoa,2015,-,91,-,-,99,1
+AND,Andorra,2000,-,100,-,-,100,0
+AND,Andorra,2015,-,100,-,-,100,0
+AGO,Angola,2000,-,6,27,-,21,33
+AGO,Angola,2015,-,23,28,-,29,28
+AIA,Anguilla,2000,-,93,83,-,56,37
+AIA,Anguilla,2015,-,98,88,-,98,0
+ATG,Antigua and Barbuda,2000,-,83,91,-,98,0
+ATG,Antigua and Barbuda,2015,-,75,90,-,94,2
+ARG,Argentina,2000,98,98,-,98,98,1
+ARG,Argentina,2015,99,99,-,99,100,0
+ARM,Armenia,2000,27,89,32,82,88,9
+ARM,Armenia,2015,61,98,61,84,98,2
+ABW,Aruba,2000,-,93,-,-,91,3
+ABW,Aruba,2015,-,96,-,-,94,4
+AUS,Australia,2000,-,97,90,-,84,15
+AUS,Australia,2015,-,98,96,-,91,8
+AUT,Austria,2000,98,100,99,98,-,-
+AUT,Austria,2015,99,100,99,99,-,-
+AZE,Azerbaijan,2000,51,60,83,51,52,31
+AZE,Azerbaijan,2015,72,72,91,79,77,15
+BHS,Bahamas,2000,-,98,98,-,96,2
+BHS,Bahamas,2015,-,96,98,-,95,2
+BHR,Bahrain,2000,99,99,-,99,97,2
+BHR,Bahrain,2015,99,99,-,99,-,-
+BGD,Bangladesh,2000,56,64,-,56,7,89
+BGD,Bangladesh,2015,56,77,-,56,14,84
+BRB,Barbados,2000,-,98,89,-,97,2
+BRB,Barbados,2015,-,98,89,-,98,0
+BLR,Belarus,2000,79,81,-,99,82,17
+BLR,Belarus,2015,94,94,-,97,89,11
+BEL,Belgium,2000,100,100,-,100,100,0
+BEL,Belgium,2015,98,99,-,100,100,0
+BLZ,Belize,2000,-,85,-,-,65,24
+BLZ,Belize,2015,-,95,-,-,83,15
+BEN,Benin,2000,-,41,-,-,41,27
+BEN,Benin,2015,-,27,-,-,42,34
+BMU,Bermuda,2000,-,100,-,-,100,0
+BMU,Bermuda,2015,-,100,-,-,100,0
+BTN,Bhutan,2000,27,67,-,27,79,4
+BTN,Bhutan,2015,34,87,-,34,100,0
+BOL,Bolivia (Plurinational State of),2000,-,71,68,-,74,6
+BOL,Bolivia (Plurinational State of),2015,-,92,78,-,74,19
+BIH,Bosnia and Herzegovina,2000,87,91,87,91,84,14
+BIH,Bosnia and Herzegovina,2015,89,91,89,98,90,10
+BWA,Botswana,2000,-,61,-,-,89,7
+BWA,Botswana,2015,-,64,-,-,90,7
+BRA,Brazil,2000,-,84,-,-,86,8
+BRA,Brazil,2015,-,97,-,-,96,2
+VGB,British Virgin Islands,2000,-,93,-,-,91,4
+VGB,British Virgin Islands,2015,-,98,-,-,96,4
+BRN,Brunei Darussalam,2000,-,-,-,-,-,-
+BRN,Brunei Darussalam,2015,-,99,-,-,99,0
+BGR,Bulgaria,2000,97,100,-,99,95,5
+BGR,Bulgaria,2015,97,97,-,99,99,0
+BFA,Burkina Faso,2000,-,3,52,-,22,46
+BFA,Burkina Faso,2015,-,15,55,-,26,50
+BDI,Burundi,2000,-,5,-,-,14,58
+BDI,Burundi,2015,-,7,-,-,33,43
+CPV,Cabo Verde,2000,-,60,-,-,68,21
+CPV,Cabo Verde,2015,-,81,-,-,90,7
+KHM,Cambodia,2000,17,37,-,17,7,45
+KHM,Cambodia,2015,24,58,-,24,21,54
+CMR,Cameroon,2000,-,8,-,-,39,25
+CMR,Cameroon,2015,-,29,-,-,39,36
+CAN,Canada,2000,-,99,-,-,-,-
+CAN,Canada,2015,-,98,-,-,70,29
+BES,Caribbean Netherlands,2000,-,-,-,-,-,-
+BES,Caribbean Netherlands,2015,-,-,-,-,-,-
+CYM,Cayman Islands,2000,-,-,-,-,-,-
+CYM,Cayman Islands,2015,-,91,82,-,86,10
+CAF,Central African Republic,2000,-,8,38,-,21,44
+CAF,Central African Republic,2015,-,8,40,-,18,50
+TCD,Chad,2000,-,15,-,-,17,33
+TCD,Chad,2015,-,10,-,-,19,36
+CHI,Channel Islands,2000,-,-,-,-,-,-
+CHI,Channel Islands,2015,92,92,-,94,90,4
+CHL,Chile,2000,92,92,94,95,94,2
+CHL,Chile,2015,98,99,99,98,100,0
+CHN,China,2000,-,63,-,-,48,30
+CHN,China,2015,-,94,-,-,78,19
+HKG,"China- Hong Kong Special Administrative Region",2000,98,98,-,99,97,1
+HKG,"China- Hong Kong Special Administrative Region",2015,100,100,-,100,100,0
+MAC,"China- Macao Special Administrative Region",2000,100,100,100,100,100,0
+MAC,"China- Macao Special Administrative Region",2015,100,100,100,100,100,0
+COL,Colombia,2000,67,89,72,74,83,7
+COL,Colombia,2015,71,96,74,79,88,9
+COM,Comoros,2000,-,67,-,-,48,45
+COM,Comoros,2015,-,65,-,-,63,27
+COG,Congo,2000,30,31,-,35,52,15
+COG,Congo,2015,37,37,-,42,57,24
+COK,Cook Islands,2000,-,85,100,-,69,31
+COK,Cook Islands,2015,-,87,100,-,75,25
+CRI,Costa Rica,2000,70,94,79,70,90,4
+CRI,Costa Rica,2015,90,100,90,95,99,1
+CIV,Cote d'Ivoire,2000,36,39,-,44,43,37
+CIV,Cote d'Ivoire,2015,46,54,-,47,50,30
+HRV,Croatia,2000,89,89,-,95,85,14
+HRV,Croatia,2015,90,97,-,90,100,0
+CUB,Cuba,2000,-,80,-,-,74,21
+CUB,Cuba,2015,-,93,-,-,79,18
+CUW,Curaoao,2000,-,-,-,-,-,-
+CUW,Curaoao,2015,-,99,-,-,99,1
+CYP,Cyprus,2000,96,100,-,96,100,0
+CYP,Cyprus,2015,100,100,-,100,100,0
+CZE,Czech Republic,2000,96,96,-,98,96,3
+CZE,Czech Republic,2015,98,98,-,99,100,0
+PRK,Democratic People's Republic of Korea,2000,-,94,-,-,82,18
+PRK,Democratic People's Republic of Korea,2015,-,94,-,-,90,10
+COD,Democratic Republic of the Congo,2000,-,14,-,-,23,21
+COD,Democratic Republic of the Congo,2015,-,9,-,-,31,23
+DNK,Denmark,2000,94,97,-,94,100,0
+DNK,Denmark,2015,97,97,-,98,100,0
+DJI,Djibouti,2000,-,45,-,-,76,14
+DJI,Djibouti,2015,-,46,-,-,80,12
+DMA,Dominica,2000,-,66,51,-,92,2
+DMA,Dominica,2015,-,75,53,-,95,2
+DOM,Dominican Republic,2000,-,75,-,-,75,19
+DOM,Dominican Republic,2015,-,92,-,-,80,17
+ECU,Ecuador,2000,66,77,79,66,72,12
+ECU,Ecuador,2015,74,91,88,74,86,7
+EGY,Egypt,2000,-,90,63,-,88,11
+EGY,Egypt,2015,-,97,71,-,98,1
+SLV,El Salvador,2000,-,71,72,-,71,12
+SLV,El Salvador,2015,-,90,71,-,88,9
+GNQ,Equatorial Guinea,2000,-,9,-,-,9,42
+GNQ,Equatorial Guinea,2015,-,10,-,-,33,19
+ERI,Eritrea,2000,-,16,-,-,23,42
+ERI,Eritrea,2015,-,19,-,-,47,15
+EST,Estonia,2000,93,93,-,99,86,13
+EST,Estonia,2015,82,96,-,82,96,3
+ETH,Ethiopia,2000,5,5,18,7,17,7
+ETH,Ethiopia,2015,11,16,51,13,33,31
+FLK,Falkland Islands (Malvinas),2000,-,-,-,-,-,-
+FLK,Falkland Islands (Malvinas),2015,-,92,-,-,90,5
+FRO,Faroe Islands,2000,-,100,-,-,100,0
+FRO,Faroe Islands,2015,-,100,-,-,100,0
+FJI,Fiji,2000,-,78,95,-,-,-
+FJI,Fiji,2015,-,69,94,-,87,7
+FIN,Finland,2000,92,100,-,92,99,1
+FIN,Finland,2015,97,97,-,100,100,0
+FRA,France,2000,93,93,-,97,100,0
+FRA,France,2015,93,93,-,98,100,0
+GUF,French Guiana,2000,-,-,-,-,-,-
+GUF,French Guiana,2015,-,90,-,-,87,7
+PYF,French Polynesia,2000,-,95,-,-,90,10
+PYF,French Polynesia,2015,-,99,-,-,100,0
+GAB,Gabon,2000,-,42,-,-,79,5
+GAB,Gabon,2015,-,69,-,-,85,8
+GMB,Gambia,2000,-,21,-,-,54,30
+GMB,Gambia,2015,-,45,-,-,75,15
+GEO,Georgia,2000,74,79,-,74,66,27
+GEO,Georgia,2015,73,75,-,83,86,12
+DEU,Germany,2000,99,100,-,100,99,0
+DEU,Germany,2015,99,99,-,100,100,0
+GHA,Ghana,2000,16,16,63,44,44,29
+GHA,Ghana,2015,27,27,76,54,32,57
+GIB,Gibraltar,2000,99,99,-,100,-,-
+GIB,Gibraltar,2015,99,99,-,100,-,-
+GRC,Greece,2000,99,99,-,99,99,1
+GRC,Greece,2015,99,99,-,100,100,0
+GRL,Greenland,2000,94,97,-,94,100,0
+GRL,Greenland,2015,97,97,-,98,100,0
+GRD,Grenada,2000,-,79,90,-,92,3
+GRD,Grenada,2015,-,90,92,-,92,4
+GLP,Guadeloupe,2000,-,-,-,-,-,-
+GLP,Guadeloupe,2015,-,99,-,-,99,0
+GUM,Guam,2000,-,99,-,-,99,0
+GUM,Guam,2015,-,100,-,-,99,0
+GTM,Guatemala,2000,50,72,50,62,77,9
+GTM,Guatemala,2015,61,86,61,92,77,17
+GIN,Guinea,2000,-,7,-,-,22,42
+GIN,Guinea,2015,-,35,-,-,28,50
+GNB,Guinea-Bissau,2000,-,15,-,-,26,31
+GNB,Guinea-Bissau,2015,-,32,-,-,19,56
+GUY,Guyana,2000,-,75,-,-,68,22
+GUY,Guyana,2015,-,94,-,-,66,30
+HTI,Haiti,2000,-,21,53,-,44,21
+HTI,Haiti,2015,-,7,60,-,25,47
+VAT,Holy See,2000,-,-,-,-,-,-
+VAT,Holy See,2015,-,-,-,-,-,-
+HND,Honduras,2000,-,78,54,-,77,6
+HND,Honduras,2015,-,91,60,-,89,4
+HUN,Hungary,2000,52,94,-,52,94,6
+HUN,Hungary,2015,82,99,-,82,99,1
+ISL,Iceland,2000,90,100,-,90,100,0
+ISL,Iceland,2015,98,100,-,98,100,0
+IND,India,2000,-,38,75,-,43,42
+IND,India,2015,-,57,80,-,43,48
+IDN,Indonesia,2000,-,61,-,-,20,56
+IDN,Indonesia,2015,-,54,-,-,18,72
+IRN,Iran (Islamic Republic of),2000,91,91,-,94,91,6
+IRN,Iran (Islamic Republic of),2015,91,91,-,94,93,4
+IRQ,Iraq,2000,-,75,38,-,76,7
+IRQ,Iraq,2015,-,71,69,-,82,13
+IRL,Ireland,2000,92,96,-,92,96,0
+IRL,Ireland,2015,99,99,-,99,99,0
+IMN,Isle of Man,2000,-,-,-,-,-,-
+IMN,Isle of Man,2015,96,96,-,96,96,0
+ISR,Israel,2000,99,100,-,99,100,0
+ISR,Israel,2015,99,100,-,99,100,0
+ITA,Italy,2000,86,94,86,97,100,0
+ITA,Italy,2015,94,94,95,94,100,0
+JAM,Jamaica,2000,-,84,54,-,79,15
+JAM,Jamaica,2015,-,83,56,-,81,15
+JPN,Japan,2000,97,97,-,98,97,1
+JPN,Japan,2015,97,97,-,99,98,1
+JOR,Jordan,2000,94,95,94,99,97,3
+JOR,Jordan,2015,93,95,93,98,86,12
+KAZ,Kazakhstan,2000,-,58,-,-,65,26
+KAZ,Kazakhstan,2015,-,84,-,-,75,22
+KEN,Kenya,2000,-,24,38,-,31,22
+KEN,Kenya,2015,-,27,52,-,32,35
+KIR,Kiribati,2000,-,52,-,-,32,29
+KIR,Kiribati,2015,-,56,-,-,33,32
+KWT,Kuwait,2000,100,100,100,100,-,-
+KWT,Kuwait,2015,100,100,100,100,-,-
+KGZ,Kyrgyzstan,2000,46,46,-,72,39,43
+KGZ,Kyrgyzstan,2015,66,66,-,82,89,0
+LAO,Lao People's Democratic Republic,2000,-,7,-,-,15,32
+LAO,Lao People's Democratic Republic,2015,-,68,-,-,42,40
+LVA,Latvia,2000,81,82,-,97,81,17
+LVA,Latvia,2015,82,82,-,98,91,8
+LBN,Lebanon,2000,44,83,65,44,84,8
+LBN,Lebanon,2015,48,89,88,48,85,14
+LSO,Lesotho,2000,-,9,-,-,62,16
+LSO,Lesotho,2015,-,25,-,-,65,18
+LBR,Liberia,2000,-,11,-,-,14,53
+LBR,Liberia,2015,-,6,-,-,4,73
+LBY,Libya,2000,-,-,-,-,-,-
+LBY,Libya,2015,-,85,-,-,41,56
+LIE,Liechtenstein,2000,100,100,-,100,100,0
+LIE,Liechtenstein,2015,100,100,-,100,100,0
+LTU,Lithuania,2000,71,77,-,71,80,10
+LTU,Lithuania,2015,92,96,-,92,95,3
+LUX,Luxembourg,2000,98,98,-,100,100,0
+LUX,Luxembourg,2015,98,98,-,100,100,0
+MDG,Madagascar,2000,-,6,30,-,24,14
+MDG,Madagascar,2015,-,24,41,-,34,19
+MWI,Malawi,2000,-,6,49,-,22,44
+MWI,Malawi,2015,-,16,65,-,22,65
+MYS,Malaysia,2000,94,94,-,98,95,4
+MYS,Malaysia,2015,92,93,-,97,94,3
+MDV,Maldives,2000,-,86,65,-,32,57
+MDV,Maldives,2015,-,95,75,-,43,55
+MLI,Mali,2000,-,20,45,-,22,31
+MLI,Mali,2015,-,32,67,-,41,39
+MLT,Malta,2000,100,100,-,100,100,0
+MLT,Malta,2015,100,100,-,100,100,0
+MHL,Marshall Islands,2000,-,-,-,-,-,-
+MHL,Marshall Islands,2015,-,74,-,-,11,88
+MTQ,Martinique,2000,95,95,-,100,-,-
+MTQ,Martinique,2015,100,100,-,100,100,0
+MRT,Mauritania,2000,-,46,-,-,29,36
+MRT,Mauritania,2015,-,63,-,-,52,33
+MUS,Mauritius,2000,-,99,72,-,99,0
+MUS,Mauritius,2015,-,100,73,-,100,0
+MYT,Mayotte,2000,-,-,-,-,-,-
+MYT,Mayotte,2015,85,85,-,96,96,2
+MEX,Mexico,2000,39,80,70,39,83,6
+MEX,Mexico,2015,43,94,69,43,95,4
+FSM,Micronesia (Federated States of),2000,-,66,-,-,-,-
+FSM,Micronesia (Federated States of),2015,-,63,-,-,-,-
+MCO,Monaco,2000,100,100,-,100,100,0
+MCO,Monaco,2015,100,100,-,100,100,0
+MNG,Mongolia,2000,-,22,-,-,32,39
+MNG,Mongolia,2015,-,25,-,-,26,64
+MNE,Montenegro,2000,-,-,-,-,-,-
+MNE,Montenegro,2015,90,96,-,90,84,16
+MSR,Montserrat,2000,-,99,-,-,99,0
+MSR,Montserrat,2015,-,97,-,-,97,0
+MAR,Morocco,2000,55,55,67,61,59,9
+MAR,Morocco,2015,69,69,86,79,76,13
+MOZ,Mozambique,2000,-,10,-,-,21,6
+MOZ,Mozambique,2015,-,13,-,-,32,30
+MMR,Myanmar,2000,-,28,-,-,12,53
+MMR,Myanmar,2015,-,53,-,-,23,57
+NAM,Namibia,2000,-,45,-,-,73,13
+NAM,Namibia,2015,-,52,-,-,73,12
+NRU,Nauru,2000,-,95,-,-,-,-
+NRU,Nauru,2015,-,99,-,-,68,32
+NPL,Nepal,2000,24,43,74,24,45,36
+NPL,Nepal,2015,27,61,81,27,48,42
+NLD,Netherlands,2000,100,100,-,100,100,0
+NLD,Netherlands,2015,100,100,-,100,100,0
+NCL,New Caledonia,2000,86,86,-,93,89,5
+NCL,New Caledonia,2015,97,97,-,98,98,1
+NZL,New Zealand,2000,77,100,-,77,100,0
+NZL,New Zealand,2015,100,100,-,100,100,0
+NIC,Nicaragua,2000,54,60,67,64,67,15
+NIC,Nicaragua,2015,59,78,61,67,70,14
+NER,Niger,2000,-,10,33,-,22,24
+NER,Niger,2015,-,13,39,-,31,24
+NGA,Nigeria,2000,17,17,-,40,18,34
+NGA,Nigeria,2015,19,20,-,59,10,66
+NIU,Niue,2000,98,99,99,98,99,0
+NIU,Niue,2015,97,98,98,97,87,11
+MNP,Northern Mariana Islands,2000,77,82,77,96,96,3
+MNP,Northern Mariana Islands,2015,82,82,99,96,97,2
+NOR,Norway,2000,95,95,-,100,100,0
+NOR,Norway,2015,95,95,-,97,100,0
+OMN,Oman,2000,-,-,-,-,-,-
+OMN,Oman,2015,89,89,-,97,88,12
+PAK,Pakistan,2000,38,83,-,38,34,58
+PAK,Pakistan,2015,36,77,-,36,33,58
+PLW,Palau,2000,-,84,-,-,92,0
+PLW,Palau,2015,-,95,-,-,100,0
+PAN,Panama,2000,-,85,73,-,88,1
+PAN,Panama,2015,-,93,85,-,92,4
+PNG,Papua New Guinea,2000,-,19,-,-,20,18
+PNG,Papua New Guinea,2015,-,19,-,-,20,18
+PRY,Paraguay,2000,-,72,64,-,51,24
+PRY,Paraguay,2015,-,95,86,-,89,10
+PER,Peru,2000,45,72,66,45,72,10
+PER,Peru,2015,50,84,73,50,83,8
+PHL,Philippines,2000,-,39,79,-,47,42
+PHL,Philippines,2015,-,61,83,-,43,50
+POL,Poland,2000,-,-,-,-,96,-
+POL,Poland,2015,94,95,-,98,97,1
+PRT,Portugal,2000,93,98,93,95,98,0
+PRT,Portugal,2015,95,96,95,99,100,0
+PRI,Puerto Rico,2000,-,94,75,-,94,3
+PRI,Puerto Rico,2015,-,94,94,-,94,3
+QAT,Qatar,2000,-,97,-,-,-,-
+QAT,Qatar,2015,-,97,-,-,-,-
+KOR,Republic of Korea,2000,-,-,-,-,-,-
+KOR,Republic of Korea,2015,98,99,-,98,98,1
+MDA,Republic of Moldova,2000,36,41,82,76,38,48
+MDA,Republic of Moldova,2015,70,71,85,74,60,28
+REU,Reunion,2000,-,100,-,-,100,0
+REU,Reunion,2015,-,100,-,-,100,0
+ROU,Romania,2000,95,100,-,95,56,44
+ROU,Romania,2015,88,100,-,99,-,-
+RUS,Russian Federation,2000,75,75,-,94,79,17
+RUS,Russian Federation,2015,76,76,-,95,92,5
+RWA,Rwanda,2000,-,4,-,-,37,30
+RWA,Rwanda,2015,-,13,-,-,40,38
+SHN,Saint Helena,2000,-,-,-,-,-,-
+SHN,Saint Helena,2015,-,98,-,-,98,1
+KNA,Saint Kitts and Nevis,2000,-,97,86,-,97,1
+KNA,Saint Kitts and Nevis,2015,-,-,-,-,-,-
+LCA,Saint Lucia,2000,-,86,-,-,89,1
+LCA,Saint Lucia,2015,-,96,-,-,96,4
+SPM,Saint Pierre and Miquelon,2000,-,-,-,-,-,-
+SPM,Saint Pierre and Miquelon,2015,83,83,91,91,91,1
+VCT,Saint Vincent and the Grenadines,2000,-,92,68,-,86,7
+VCT,Saint Vincent and the Grenadines,2015,-,94,70,-,93,2
+WSM,Samoa,2000,-,92,95,-,86,9
+WSM,Samoa,2015,-,94,97,-,82,15
+SMR,San Marino,2000,100,100,100,100,100,0
+SMR,San Marino,2015,100,100,100,100,100,0
+STP,Sao Tome and Principe,2000,-,27,-,-,74,6
+STP,Sao Tome and Principe,2015,-,36,-,-,91,5
+SAU,Saudi Arabia,2000,-,79,-,-,60,36
+SAU,Saudi Arabia,2015,-,99,-,-,98,2
+SEN,Senegal,2000,-,37,-,-,53,13
+SEN,Senegal,2015,-,60,-,-,70,10
+SRB,Serbia,2000,76,76,-,99,81,19
+SRB,Serbia,2015,88,88,-,99,95,4
+SYC,Seychelles,2000,-,90,-,-,86,7
+SYC,Seychelles,2015,-,95,-,-,95,2
+SLE,Sierra Leone,2000,-,13,-,-,21,24
+SLE,Sierra Leone,2015,-,11,-,-,28,40
+SGP,Singapore,2000,100,100,-,100,100,0
+SGP,Singapore,2015,100,100,-,100,100,0
+SXM,Sint Maarten (Dutch part),2000,-,-,-,-,-,-
+SXM,Sint Maarten (Dutch part),2015,-,90,-,-,84,12
+SVK,Slovakia,2000,93,93,-,98,95,5
+SVK,Slovakia,2015,93,93,-,98,98,2
+SVN,Slovenia,2000,77,100,-,77,100,0
+SVN,Slovenia,2015,98,98,-,98,99,1
+SLB,Solomon Islands,2000,-,62,44,-,59,27
+SLB,Solomon Islands,2015,-,51,35,-,47,21
+SOM,Somalia,2000,-,11,22,-,11,19
+SOM,Somalia,2015,-,19,43,-,30,29
+ZAF,South Africa,2000,-,64,83,-,81,6
+ZAF,South Africa,2015,-,74,72,-,90,5
+SSD,South Sudan,2000,-,-,-,-,-,-
+SSD,South Sudan,2015,-,2,-,-,7,73
+ESP,Spain,2000,98,100,-,99,99,1
+ESP,Spain,2015,98,98,-,98,100,0
+LKA,Sri Lanka,2000,-,58,73,-,27,53
+LKA,Sri Lanka,2015,-,77,89,-,38,58
+SDN,Sudan,2000,-,28,60,-,29,34
+SDN,Sudan,2015,-,38,82,-,44,41
+SUR,Suriname,2000,-,87,50,-,76,13
+SUR,Suriname,2015,-,90,53,-,67,28
+SWZ,Swaziland,2000,-,28,-,-,45,12
+SWZ,Swaziland,2015,-,46,-,-,57,18
+SWE,Sweden,2000,98,98,-,100,100,0
+SWE,Sweden,2015,98,98,-,100,100,0
+CHE,Switzerland,2000,93,97,-,93,100,0
+CHE,Switzerland,2015,95,97,-,95,100,0
+SYR,Syrian Arab Republic,2000,-,79,-,-,80,17
+SYR,Syrian Arab Republic,2015,-,81,-,-,86,13
+TJK,Tajikistan,2000,37,38,39,39,48,12
+TJK,Tajikistan,2015,47,48,51,68,60,18
+THA,Thailand,2000,-,90,-,-,33,62
+THA,Thailand,2015,-,97,-,-,67,32
+MKD,The former Yugoslav Republic of Macedonia,2000,91,91,-,99,93,7
+MKD,The former Yugoslav Republic of Macedonia,2015,83,94,-,88,92,7
+TLS,Timor-Leste,2000,-,-,-,-,-,-
+TLS,Timor-Leste,2015,-,50,-,-,42,34
+TGO,Togo,2000,-,11,-,-,38,12
+TGO,Togo,2015,-,15,-,-,24,44
+TKL,Tokelau,2000,-,74,-,-,-,-
+TKL,Tokelau,2015,-,91,-,-,94,5
+TON,Tonga,2000,-,98,-,-,96,2
+TON,Tonga,2015,-,71,-,-,94,6
+TTO,Trinidad and Tobago,2000,-,82,73,-,83,10
+TTO,Trinidad and Tobago,2015,-,95,80,-,92,6
+TUN,Tunisia,2000,37,86,92,37,80,12
+TUN,Tunisia,2015,93,93,99,99,87,12
+TUR,Turkey,2000,-,94,-,-,91,4
+TUR,Turkey,2015,-,96,-,-,99,0
+TKM,Turkmenistan,2000,67,71,-,70,56,32
+TKM,Turkmenistan,2015,86,90,-,92,56,44
+TCA,Turks and Caicos Islands,2000,-,85,-,-,42,45
+TCA,Turks and Caicos Islands,2015,-,90,-,-,68,26
+TUV,Tuvalu,2000,-,-,-,-,-,-
+TUV,Tuvalu,2015,-,97,-,-,99,0
+UGA,Uganda,2000,4,4,52,31,9,50
+UGA,Uganda,2015,6,6,67,42,19,58
+UKR,Ukraine,2000,65,66,-,91,79,18
+UKR,Ukraine,2015,92,92,-,93,66,34
+ARE,United Arab Emirates,2000,-,89,99,-,79,21
+ARE,United Arab Emirates,2015,-,89,99,-,-,-
+GBR,United Kingdom,2000,96,96,-,100,100,0
+GBR,United Kingdom,2015,96,96,-,100,100,0
+TZA,United Republic of Tanzania,2000,-,2,19,-,35,5
+TZA,United Republic of Tanzania,2015,-,19,29,-,35,28
+VIR,United States Virgin Islands,2000,-,99,-,-,68,32
+VIR,United States Virgin Islands,2015,-,99,-,-,64,36
+USA,United States of America,2000,-,-,-,-,-,-
+USA,United States of America,2015,99,99,99,99,99,0
+URY,Uruguay,2000,-,96,97,-,96,2
+URY,Uruguay,2015,-,99,100,-,100,0
+UZB,Uzbekistan,2000,51,51,-,85,73,18
+UZB,Uzbekistan,2015,-,-,-,-,-,-
+VUT,Vanuatu,2000,-,45,-,-,50,32
+VUT,Vanuatu,2015,-,50,-,-,32,60
+VEN,Venezuela (Bolivarian Republic of),2000,-,87,60,-,85,11
+VEN,Venezuela (Bolivarian Republic of),2015,-,89,60,-,86,11
+VNM,Viet Nam,2000,-,65,-,-,13,67
+VNM,Viet Nam,2015,-,88,-,-,40,55
+WLF,Wallis and Futuna Islands,2000,-,99,-,-,100,0
+WLF,Wallis and Futuna Islands,2015,-,99,-,-,99,0
+PSE,West Bank and Gaza Strip,2000,-,81,81,-,84,4
+PSE,West Bank and Gaza Strip,2015,-,80,80,-,52,36
+ESH,Western Sahara,2000,-,-,-,-,-,-
+ESH,Western Sahara,2015,-,-,-,-,-,-
+YEM,Yemen,2000,-,31,35,-,43,12
+YEM,Yemen,2015,-,49,58,-,42,50
+ZMB,Zambia,2000,-,20,-,-,33,20
+ZMB,Zambia,2015,-,23,-,-,29,38
+ZWE,Zimbabwe,2000,-,39,61,-,42,39
+ZWE,Zimbabwe,2015,-,32,57,-,29,47
